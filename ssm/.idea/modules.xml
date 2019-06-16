@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring_ssm/maven_service/maven_service.iml" filepath="$PROJECT_DIR$/spring_ssm/maven_service/maven_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_ssm/maven_web/maven_web.iml" filepath="$PROJECT_DIR$/spring_ssm/maven_web/maven_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_ssm/spring_ssm.iml" filepath="$PROJECT_DIR$/spring_ssm/spring_ssm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/ssm.iml" filepath="$PROJECT_DIR$/.idea/ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ssm_spring.iml" filepath="$PROJECT_DIR$/.idea/ssm_spring.iml" />
     </modules>
   </component>
 </project>
