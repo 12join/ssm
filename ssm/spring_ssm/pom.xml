@@ -63,7 +63,7 @@
 
     <!-- 项目依赖jar包 -->
     <dependencies>
-        <!-- spring -->
+      <!--  &lt;!&ndash; spring &ndash;&gt;
         <dependency>
             <groupId>org.aspectj</groupId>
             <artifactId>aspectjweaver</artifactId>
@@ -147,7 +147,7 @@
             <artifactId>jstl</artifactId>
             <version>1.2</version>
         </dependency>
-        <!-- log start -->
+        &lt;!&ndash; log start &ndash;&gt;
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
@@ -163,7 +163,7 @@
             <artifactId>slf4j-log4j12</artifactId>
             <version>${slf4j.version}</version>
         </dependency>
-        <!-- log end -->
+        &lt;!&ndash; log end &ndash;&gt;
         <dependency>
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis</artifactId>
@@ -210,7 +210,7 @@
             <groupId>com.alibaba</groupId>
             <artifactId>druid</artifactId>
             <version>1.0.9</version>
-        </dependency>
+        </dependency>-->
     </dependencies>
     <!-- 添加tomcat7插件 -->
     <build>

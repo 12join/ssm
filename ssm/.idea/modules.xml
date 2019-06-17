@@ -3,10 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring_ssm/maven_dao/maven_dao.iml" filepath="$PROJECT_DIR$/spring_ssm/maven_dao/maven_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smm_exdent/maven_domain/maven_domain.iml" filepath="$PROJECT_DIR$/smm_exdent/maven_domain/maven_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smm_exdent/maven_mapper/maven_mapper.iml" filepath="$PROJECT_DIR$/smm_exdent/maven_mapper/maven_mapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_ssm/maven_pojo/maven_pojo.iml" filepath="$PROJECT_DIR$/spring_ssm/maven_pojo/maven_pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_ssm/maven_service/maven_service.iml" filepath="$PROJECT_DIR$/spring_ssm/maven_service/maven_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_ssm/maven_web/maven_web.iml" filepath="$PROJECT_DIR$/spring_ssm/maven_web/maven_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smm_exdent/smm_exdent.iml" filepath="$PROJECT_DIR$/smm_exdent/smm_exdent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smm_exdent/spring_service/spring_service.iml" filepath="$PROJECT_DIR$/smm_exdent/spring_service/spring_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_ssm/spring_ssm.iml" filepath="$PROJECT_DIR$/spring_ssm/spring_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smm_exdent/spring_web/spring_web.iml" filepath="$PROJECT_DIR$/smm_exdent/spring_web/spring_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ssm_spring.iml" filepath="$PROJECT_DIR$/.idea/ssm_spring.iml" />
     </modules>
   </component>

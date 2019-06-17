@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 
 public class MyIntercepter implements HandlerInterceptor {
 
-    /*@Override
+    @Override
     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
         System.out.println("第一个拦截器初始化了111...");
         return true;
@@ -22,20 +22,5 @@ public class MyIntercepter implements HandlerInterceptor {
     @Override
     public void afterCompletion(HttpServletRequest request, HttpServletResponse response, Object handler, Exception ex) throws Exception {
         System.out.println("页面执行了....");
-    }*/
-
-    @Override
-    public boolean preHandle(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response, Object handler) throws Exception {
-        return true;
-    }
-
-    @Override
-    public void postHandle(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response, Object handler, ModelAndView modelAndView) throws Exception {
-
-    }
-
-    @Override
-    public void afterCompletion(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response, Object handler, Exception ex) throws Exception {
-
     }
 }
